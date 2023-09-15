@@ -1,0 +1,3 @@
+/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/wallet.dir
+/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/rebuild_cache.dir

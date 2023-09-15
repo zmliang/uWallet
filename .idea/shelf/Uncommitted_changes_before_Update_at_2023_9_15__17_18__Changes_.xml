@@ -1,0 +1,474 @@
+<changelist name="Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]" date="1694769549660" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2023/9/15, 17:18 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/codemodel-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/jni_helper.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/CMakeOutput.log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/build.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/.ninja_log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/src/main/jniLibs/arm64-v8a/libTrustWalletCore.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/src/main/jniLibs/armeabi-v7a/libTrustWalletCore.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore1.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/compile_commands.json.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.5/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/configure_fingerprint.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/rules.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c1.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_deps" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_deps" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/.ninja_deps" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.5/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_deps" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_deps" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/1.ninja_deps" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/cache-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/jni_helper.cpp.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/build.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/CMakeOutput.log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/build.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/cmake.check_cache" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/build.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_deps" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/codemodel-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_deps" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/CMakeOutput.log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/rules.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/CMakeOutput.log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/rules.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/rules.ninja" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/local_storage.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/cmake.check_cache" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/compile_commands.json.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_log" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/cmake.check_cache" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/wallet.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp1.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/cmake.check_cache" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/cmakeFiles-v1" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/fileHashes/resourceHashesCache.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.5/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_deps" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/cache-v2" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp1.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/x86/compile_commands.json.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.5/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/compile_commands.json.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/jni_helper.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp1.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/outputFiles.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/configure_fingerprint.bin" />
+    <option name="AFTER_PATH" value="wallet/.cxx/Debug/6l6g574k/arm64-v8a/configure_fingerprint.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.5/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>

@@ -11,15 +11,34 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="更新readme">
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/jni_helper.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/jni_helper.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/local_storage.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/wallet.dir/wallet.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-32-0102.json" afterDir="false" />
+    <list default="true" id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/1.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore1.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15__17_18__Changes_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/additional_project_files.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/build.ninja" afterDir="false" />
@@ -30,8 +49,6 @@
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wallet/.cxx/tools/release/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/src/main/jniLibs/arm64-v8a/libTrustWalletCore.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/src/main/jniLibs/armeabi-v7a/libTrustWalletCore.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
@@ -42,6 +59,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
@@ -50,7 +68,7 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-214303d1a5ddd020371c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-a168c08188b2344114b8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-a85eafccf7f08131af24.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/directory-.-RelWithDebInfo-f5ebdc15457944623624.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/index-2023-09-05T05-15-31-0030.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/index-2023-09-15T13-16-06-0119.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/index-2023-09-05T05-15-31-0030.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-94260dea3e0e4bb27844.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/target-wallet-RelWithDebInfo-5ff456e807668a4c6bf3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_deps" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_log" beforeDir="false" />
@@ -70,7 +88,7 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/jni_helper.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c1.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/additional_project_files.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/android_gradle_build.json" afterDir="false" />
@@ -91,15 +109,15 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-58ef27bbb120c8ab8e25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-6b21916e50cd7950979b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-368727691c9925b25dcd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/index-2023-08-25T18-27-11-0157.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-31-0796.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/index-2023-08-25T18-27-11-0157.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/index-2023-09-15T13-16-06-0119.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/target-wallet-Debug-6fb0f7942abc023cb24e.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_deps" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeCache.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C1.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX1.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
@@ -129,7 +147,7 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-e19935436f5bf4bdbefd.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-69aea42ce4cc1bbcca70.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/index-2023-08-25T18-04-14-0198.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/index-2023-08-25T18-04-14-0198.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-31-0796.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-e67bd591508b88577469.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_deps" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_log" beforeDir="false" />
@@ -170,7 +188,7 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/cmakeFiles-v1-41512b93affb794b6249.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-facb010c502649f68eda.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/codemodel-v2-3181327936eb070fbe66.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-bef1bcb4ae8dd8d8ec69.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/index-2023-08-25T17-45-24-0858.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/index-2023-08-25T17-45-24-0858.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-32-0102.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/target-wallet-Debug-2687821644774e106ec8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeCache.txt" beforeDir="false" />
@@ -250,6 +268,8 @@
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/arm64-v8a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/tools/debug/arm64-v8a/compile_commands.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/tools/debug/armeabi-v7a/compile_commands.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/x86/compile_commands.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zbar/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zbar/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -636,7 +656,42 @@
       <option name="project" value="LOCAL" />
       <updated>1694783362889</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1694784230547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784230547</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1694784435604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784435604</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1694784558790</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784558790</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1694786254756</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694786254756</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1694786304409</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694786304409</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -656,7 +711,8 @@
     <MESSAGE value="分次上传" />
     <MESSAGE value="notihng" />
     <MESSAGE value="更新readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新readme" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
