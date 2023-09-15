@@ -11,266 +11,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/1.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/compile_commands.json1.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/configure_fingerprint1.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/jni_helper.cpp1.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/libTrustWalletCore1.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/local_storage.cpp1.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/wallet.cpp1.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15__17_18__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/additional_project_files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/build_file_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/compile_commands.json.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet/.cxx/tools/release/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/cache-v2-6d9531999270effd103e.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/cache-v2-13206e17e3f4a7b465ff.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-214303d1a5ddd020371c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-a168c08188b2344114b8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-a85eafccf7f08131af24.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/directory-.-RelWithDebInfo-f5ebdc15457944623624.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/index-2023-09-05T05-15-31-0030.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-94260dea3e0e4bb27844.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/target-wallet-RelWithDebInfo-5ff456e807668a4c6bf3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/jni_helper.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/sqlite3.c1.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/additional_project_files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/build_file_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/compile_commands.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/compile_commands.json.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/configure_fingerprint.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/metadata_generation_command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/prefab_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/prefab_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/arm64-v8a/symbol_folder_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/query/client-agp/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/cache-v2-33376ee64f98f893a972.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-58ef27bbb120c8ab8e25.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-6b21916e50cd7950979b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-368727691c9925b25dcd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/index-2023-08-25T18-27-11-0157.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/index-2023-09-15T13-16-06-0119.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.cmake/api/v1/reply/target-wallet-Debug-6fb0f7942abc023cb24e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_C1.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_9_15,_17_18_[Changes]/CMakeDetermineCompilerABI_CXX1.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/additional_project_files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/android_gradle_build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/build_file_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/compile_commands.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/compile_commands.json.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/configure_fingerprint.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/metadata_generation_command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/prefab_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/armeabi-v7a/symbol_folder_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/294d1c2r/hash_key.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/cache-v2-da932527fe7b438050d1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-e19935436f5bf4bdbefd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-69aea42ce4cc1bbcca70.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/index-2023-08-25T18-04-14-0198.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-31-0796.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-e67bd591508b88577469.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/local_storage.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/CMakeFiles/wallet.dir/wallet.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/additional_project_files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/android_gradle_build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/build_file_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/compile_commands.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/compile_commands.json.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/configure_fingerprint.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/metadata_generation_command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/prefab_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/arm64-v8a/symbol_folder_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/hash_key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/hash_key.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/query/client-agp/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/cache-v2-e1b9c1a79e85ebf386ef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/cmakeFiles-v1-41512b93affb794b6249.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-facb010c502649f68eda.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/codemodel-v2-3181327936eb070fbe66.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-bef1bcb4ae8dd8d8ec69.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/index-2023-08-25T17-45-24-0858.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/index-2023-09-15T13-14-32-0102.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.cmake/api/v1/reply/target-wallet-Debug-2687821644774e106ec8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/additional_project_files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/android_gradle_build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/android_gradle_build_mini.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/build_file_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/compile_commands.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/compile_commands.json.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/configure_fingerprint.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/metadata_generation_command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/prefab_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/2wi1k222/x86/symbol_folder_index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/cache-v2-f2c5af66de3b04cf7f93.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/cache-v2-aa003f7c33839b690951.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-3aa6540ef5c35fe666c6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/RelWithDebInfo/3x3h6712/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-e1cab95ed4925bf557ae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-9f3bffa266321dcfb567.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-699852ec9219966e0f03.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/index-2023-09-11T06-23-11-0796.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-dbffbee1585f3e0d36a1.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.cmake/api/v1/reply/target-wallet-Debug-dc7c366a9d40867ece1b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/additional_project_files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/additional_project_files.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/build_file_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/compile_commands.json.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/metadata_generation_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/cache-v2-bbc96ebf6fcafc2c0af6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/cache-v2-7f725deef753dff73e4c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-d0829b673e187bfed786.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-90fa6e28e36cc80af3e3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/index-2023-09-05T13-44-17-0626.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/target-wallet-Debug-f736ebbe6fd06e2c1112.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.cmake/api/v1/reply/target-wallet-Debug-cc19af970c413a374e16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/additional_project_files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/additional_project_files.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/build_file_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/compile_commands.json.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/configure_fingerprint.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/metadata_generation_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/metadata_generation_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/symbol_folder_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/arm64-v8a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/tools/debug/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.cxx/tools/debug/armeabi-v7a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.cxx/tools/debug/x86/compile_commands.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/wallet/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zbar/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zbar/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -356,99 +97,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ApkExportedModule": "JetPack_Test.app",
-    "DEBUGGABLE_DEVICE": "vivo-v2036a-KNFIQ4DYYPHIINLV",
-    "DEBUGGABLE_PROCESS": "com.self.app",
-    "DEBUGGER_ID": "Auto",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SHOW_ALL_PROCESSES": "false",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/ActionMenuView.java_SELECTED": "ActionMenuView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_SELECTED": "AppCompatTextView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED": "Toolbar",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED": "CardView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/androidx/constraintlayout/widget/ConstraintLayout.java_SELECTED": "ConstraintLayout",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED": "RecyclerView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED": "RecyclerView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED": "SwipeRefreshLayout",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED": "ViewPager2",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/com/ittianyu/bottomnavigationviewex/BottomNavigationViewEx.java_SELECTED": "BottomNavigationViewEx",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/appbar/AppBarLayout.java_SELECTED": "AppBarLayout",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_SELECTED": "BottomNavigationView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/navigation/NavigationBarView.java_SELECTED": "NavigationBarView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED": "TabLayout",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeMenuView.java_SELECTED": "SwipeMenuView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeRecyclerView.java_SELECTED": "SwipeRecyclerView",
-    "android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/io.github.scwang90/refresh-layout-kernel/2.0.6/aa16c9fc68b76d9f2658069f31b0b30e522098e0/refresh-layout-kernel-2.0.6-sources.jar!/com/scwang/smart/refresh/layout/SmartRefreshLayout.java_SELECTED": "SmartRefreshLayout",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ChartsView.kt_SELECTED": "ChartsViewGroup",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ScrollDisabledLv.kt_SELECTED": "ScrollDisabledLv",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED": "TokenGroupView",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/VerticalTabLayout.kt_SELECTED": "VerticalTabLayout",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED": "ChartView",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/verticaltab/VerticalTabLayout.kt_SELECTED": "VerticalTabLayout",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED": "VerticalTabLayout",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/NonScrollableViewPager.java_SELECTED": "NonScrollableViewPager",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/VerticalViewPager.java_SELECTED": "VerticalViewPager",
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/transformer/VerticalViewPager.java_SELECTED": "VerticalViewPager",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomRecyclerView.java_SELECTED": "CustomRecyclerView",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomViewPager2.java_SELECTED": "CustomViewPager2",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/MySmartRefreshLayout.java_SELECTED": "MySmartRefreshLayout",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/RefreshLayout.java_SELECTED": "RefreshLayout",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED": "TokenGroupView",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED": "ChartView",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/CenterTitleToolbar.java_SELECTED": "CenterTitleToolbar",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED": "VerticalTabLayout",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_SELECTED": "AssetHeader",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_SELECTED": "ExpendEditView",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/FloatingMenu.java_SELECTED": "FloatingMenu",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_SELECTED": "ProgressButton",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ScannerView.java_SELECTED": "ScannerView",
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ViewfinderView.java_SELECTED": "ViewfinderView",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/View.java_SELECTED": "View",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/ViewGroup.java_SELECTED": "ViewGroup",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/FrameLayout.java_SELECTED": "FrameLayout",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/HorizontalScrollView.java_SELECTED": "HorizontalScrollView",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageButton.java_SELECTED": "ImageButton",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageView.java_SELECTED": "ImageView",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/LinearLayout.java_SELECTED": "LinearLayout",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TableLayout.java_SELECTED": "TableLayout",
-    "android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TextView.java_SELECTED": "TextView",
-    "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/suoerye/Downloads/my_/UWallet/app/src/main/res/layout",
-    "memory.settings.postsync.last.time.stamp": "1694763806671",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "show.migrate.to.gradle.popup": "false",
-    "structure.view.defaults.are.configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ApkExportedModule&quot;: &quot;JetPack_Test.app&quot;,
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;vivo-v2036a-KNFIQ4DYYPHIINLV&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.self.app&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/ActionMenuView.java_SELECTED&quot;: &quot;ActionMenuView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_SELECTED&quot;: &quot;AppCompatTextView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED&quot;: &quot;Toolbar&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED&quot;: &quot;CardView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/androidx/constraintlayout/widget/ConstraintLayout.java_SELECTED&quot;: &quot;ConstraintLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED&quot;: &quot;SwipeRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED&quot;: &quot;ViewPager2&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/com/ittianyu/bottomnavigationviewex/BottomNavigationViewEx.java_SELECTED&quot;: &quot;BottomNavigationViewEx&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/appbar/AppBarLayout.java_SELECTED&quot;: &quot;AppBarLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_SELECTED&quot;: &quot;BottomNavigationView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/navigation/NavigationBarView.java_SELECTED&quot;: &quot;NavigationBarView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED&quot;: &quot;TabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeMenuView.java_SELECTED&quot;: &quot;SwipeMenuView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeRecyclerView.java_SELECTED&quot;: &quot;SwipeRecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/io.github.scwang90/refresh-layout-kernel/2.0.6/aa16c9fc68b76d9f2658069f31b0b30e522098e0/refresh-layout-kernel-2.0.6-sources.jar!/com/scwang/smart/refresh/layout/SmartRefreshLayout.java_SELECTED&quot;: &quot;SmartRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ChartsView.kt_SELECTED&quot;: &quot;ChartsViewGroup&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ScrollDisabledLv.kt_SELECTED&quot;: &quot;ScrollDisabledLv&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED&quot;: &quot;TokenGroupView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/VerticalTabLayout.kt_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED&quot;: &quot;ChartView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/verticaltab/VerticalTabLayout.kt_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/NonScrollableViewPager.java_SELECTED&quot;: &quot;NonScrollableViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/VerticalViewPager.java_SELECTED&quot;: &quot;VerticalViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/transformer/VerticalViewPager.java_SELECTED&quot;: &quot;VerticalViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomRecyclerView.java_SELECTED&quot;: &quot;CustomRecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomViewPager2.java_SELECTED&quot;: &quot;CustomViewPager2&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/MySmartRefreshLayout.java_SELECTED&quot;: &quot;MySmartRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/RefreshLayout.java_SELECTED&quot;: &quot;RefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED&quot;: &quot;TokenGroupView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED&quot;: &quot;ChartView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/CenterTitleToolbar.java_SELECTED&quot;: &quot;CenterTitleToolbar&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_SELECTED&quot;: &quot;AssetHeader&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_SELECTED&quot;: &quot;ExpendEditView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/FloatingMenu.java_SELECTED&quot;: &quot;FloatingMenu&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_SELECTED&quot;: &quot;ProgressButton&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ScannerView.java_SELECTED&quot;: &quot;ScannerView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ViewfinderView.java_SELECTED&quot;: &quot;ViewfinderView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/ViewGroup.java_SELECTED&quot;: &quot;ViewGroup&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/FrameLayout.java_SELECTED&quot;: &quot;FrameLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/HorizontalScrollView.java_SELECTED&quot;: &quot;HorizontalScrollView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageButton.java_SELECTED&quot;: &quot;ImageButton&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageView.java_SELECTED&quot;: &quot;ImageView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/LinearLayout.java_SELECTED&quot;: &quot;LinearLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TableLayout.java_SELECTED&quot;: &quot;TableLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TextView.java_SELECTED&quot;: &quot;TextView&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/suoerye/Downloads/my_/UWallet/app/src/main/res/layout&quot;,
+    &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1694763806671&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_ChartView_DIMENSIONS": [
-      "1080",
-      "1920"
+  &quot;keyToStringList&quot;: {
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_ChartView_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
     ],
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_AssetHeader_DIMENSIONS": [
-      "1080",
-      "1920"
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_AssetHeader_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
     ],
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_ExpendEditView_DIMENSIONS": [
-      "1080",
-      "1920"
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_ExpendEditView_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
     ],
-    "android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_ProgressButton_DIMENSIONS": [
-      "1080",
-      "1920"
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_ProgressButton_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
