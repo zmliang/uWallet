@@ -1,0 +1,10 @@
+# ninja log v5
+230	319	1692980412442866795	/Users/suoerye/Downloads/JetPack_Test/wallet/build/intermediates/cxx/Debug/2wi1k222/obj/arm64-v8a/libwallet.so	b866d24f3128be17
+0	229	1692980412365487438	CMakeFiles/wallet.dir/wallet.cpp.o	f4551f2ea7f1183d
+15	694	1692986654940166019	CMakeFiles/wallet.dir/local_storage.cpp.o	768be590a76b06d7
+20	779	1692986655035196324	CMakeFiles/wallet.dir/wallet.cpp.o	f4551f2ea7f1183d
+7	2154	1692986656397864126	CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o	77f8b7a8339fa480
+0	11	0	clean	ea4afb4ea2d01b75
+4	435	1692986877392166651	CMakeFiles/wallet.dir/local_storage.cpp.o	768be590a76b06d7
+4	464	1692986877423210200	CMakeFiles/wallet.dir/wallet.cpp.o	f4551f2ea7f1183d
+3	1532	1692986878479855922	CMakeFiles/wallet.dir/sqlite3/sqlite3.c.o	77f8b7a8339fa480

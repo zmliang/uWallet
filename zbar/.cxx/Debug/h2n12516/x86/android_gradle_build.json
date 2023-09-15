@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "zbar::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "zbar",
+      "output": "/Users/suoerye/Downloads/my_/UWallet/zbar/build/intermediates/cxx/Debug/h2n12516/obj/x86/libzbar.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/suoerye/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/suoerye/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

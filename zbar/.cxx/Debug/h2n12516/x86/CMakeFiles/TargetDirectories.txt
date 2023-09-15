@@ -1,0 +1,3 @@
+/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86/CMakeFiles/zbar.dir
+/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86/CMakeFiles/edit_cache.dir
+/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86/CMakeFiles/rebuild_cache.dir

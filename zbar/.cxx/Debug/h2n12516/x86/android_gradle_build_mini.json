@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "zbar::@6890427a1f51a3e7e1df": {
+      "artifactName": "zbar",
+      "abi": "x86",
+      "output": "/Users/suoerye/Downloads/my_/UWallet/zbar/build/intermediates/cxx/Debug/h2n12516/obj/x86/libzbar.so",
+      "runtimeFiles": []
+    }
+  }
+}

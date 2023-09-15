@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/suoerye/Downloads/JetPack_Test/wallet/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/suoerye/Downloads/JetPack_Test/wallet/.cxx/Debug/2wi1k222/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/suoerye/Downloads/JetPack_Test/wallet/.cxx/Debug/2wi1k222/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "wallet::@6890427a1f51a3e7e1df": {
+      "artifactName": "wallet",
+      "abi": "x86",
+      "output": "/Users/suoerye/Downloads/JetPack_Test/wallet/build/intermediates/cxx/Debug/2wi1k222/obj/x86/libwallet.so",
+      "runtimeFiles": []
+    }
+  }
+}

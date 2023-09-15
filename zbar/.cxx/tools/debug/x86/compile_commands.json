@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/suoerye/Downloads/my_/UWallet/zbar/.cxx/Debug/h2n12516/x86",
+  "command": "/Users/suoerye/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/suoerye/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dzbar_EXPORTS -std=c++11 -g  -fno-limit-debug-info -fPIC -o CMakeFiles/zbar.dir/zbar.cpp.o -c /Users/suoerye/Downloads/my_/UWallet/zbar/src/main/cpp/zbar.cpp",
+  "file": "/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/cpp/zbar.cpp"
+}
+]
