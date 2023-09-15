@@ -1,4 +1,4 @@
-# Install script for directory: /Users/suoerye/Downloads/my_/UWallet/wallet/src/main/cpp
+# Install script for directory: /Users/suoerye/Downloads/my_/wallet/wallet/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/suoerye/Downloads/my_/UWallet/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/Debug/6l6g574k/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

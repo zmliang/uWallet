@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/suoerye/Downloads/my_/UWallet/wallet/src/main/cpp -B/Users/suoerye/Downloads/my_/UWallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a
+  command = /Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/suoerye/Downloads/my_/wallet/wallet/src/main/cpp -B/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a
   description = Re-running CMake...
   generator = 1
 

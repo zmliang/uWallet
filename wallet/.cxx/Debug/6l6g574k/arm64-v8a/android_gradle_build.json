@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/Users/suoerye/Downloads/my_/UWallet/wallet/src/main/cpp/CMakeLists.txt"
+    "/Users/suoerye/Downloads/my_/wallet/wallet/src/main/cpp/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/suoerye/Downloads/my_/UWallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a",
+      "/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/suoerye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/suoerye/Downloads/my_/UWallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a",
+    "/Users/suoerye/Downloads/my_/wallet/wallet/.cxx/Debug/6l6g574k/arm64-v8a",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "arm64-v8a",
       "artifactName": "wallet",
-      "output": "/Users/suoerye/Downloads/my_/UWallet/wallet/build/intermediates/cxx/Debug/6l6g574k/obj/arm64-v8a/libwallet.so",
+      "output": "/Users/suoerye/Downloads/my_/wallet/wallet/build/intermediates/cxx/Debug/6l6g574k/obj/arm64-v8a/libwallet.so",
       "runtimeFiles": []
     }
   },

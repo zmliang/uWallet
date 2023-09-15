@@ -1,3 +1,0 @@
-/Users/suoerye/Downloads/JetPack_Test/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/wallet.dir
-/Users/suoerye/Downloads/JetPack_Test/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/edit_cache.dir
-/Users/suoerye/Downloads/JetPack_Test/wallet/.cxx/Debug/2wi1k222/x86/CMakeFiles/rebuild_cache.dir

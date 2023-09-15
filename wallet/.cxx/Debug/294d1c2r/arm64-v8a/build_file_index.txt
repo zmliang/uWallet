@@ -1,1 +1,0 @@
-/Users/suoerye/Downloads/my_/UWallet/wallet/src/main/cpp/CMakeLists.txt
