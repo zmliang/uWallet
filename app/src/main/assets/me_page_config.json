@@ -1,0 +1,24 @@
+{
+  "items":[
+    {
+      "id":1,"name":"钱包管理","icon":"msg"
+    },
+    {
+      "id":2,"name":"设置","icon":"msg"
+    },
+    {
+      "id":3,"name":"消息通知","icon":"msg"
+    },
+    {
+      "id":4,"name":"联系我们","icon":"msg"
+    },
+    {
+      "id":5,"name":"帮助中心","icon":"msg"
+    },
+    {
+      "id":6,"name":"关于我们","icon":"msg"
+    }
+  ]
+,
+  "title":"我的"
+}

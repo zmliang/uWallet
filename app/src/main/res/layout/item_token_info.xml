@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/token_item_container"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    tools:ignore="MissingDefaultResource">
+
+
+    <ImageView
+        android:layout_marginLeft="40dp"
+        android:id="@+id/coin_icon"
+        android:layout_width="30dp"
+        android:layout_centerVertical="true"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:textSize="12sp"
+        android:layout_marginLeft="20dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/coin_name"
+        android:layout_toRightOf="@+id/coin_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="代币名称" />
+
+    <TextView
+        android:textSize="12sp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/coin_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/coin_range"
+        android:layout_marginRight="70dp"
+        android:text="代币价格" />
+
+    <TextView
+        android:textSize="12sp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/coin_range"
+        android:gravity="right"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="40dp"
+        android:layout_height="wrap_content"
+        android:text="代币涨跌幅" />
+
+    <View
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorGray"
+        android:alpha="0.2"
+        android:layout_width="match_parent"
+        android:layout_height="0.8px"/>
+
+</RelativeLayout>

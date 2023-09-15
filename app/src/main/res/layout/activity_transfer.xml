@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+
+
+<!--        <variable-->
+<!--            name="click"-->
+<!--            type="com.self.app.ui.activity.AddTokenActivity.ClickListener" />-->
+    </data>
+
+
+
+    <LinearLayout
+        android:background="@color/white_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/normal_action_bar"
+            android:id="@+id/nor_bar_trans"/>
+
+        <com.scwang.smart.refresh.layout.SmartRefreshLayout
+            android:id="@+id/me_refreshLayout"
+            android:layout_width="match_parent"
+            app:srlEnablePureScrollMode="true"
+            app:srlEnableLoadMore="false"
+            android:layout_marginBottom="50dp"
+            app:srlDragRate="0.75"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="20dp"
+                android:layout_height="match_parent">
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:id="@+id/transfer_token_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    app:content_bg="@drawable/add_token_item_bg"
+                    app:content_editable="false"
+                    app:content_hint=""
+                    app:edit_left_drawable="@drawable/btc"
+                    app:content_min_height="65dp"
+                    app:content_vertical_gravity="center"
+                    app:edit_right_drawable="@drawable/mining_arrow"
+                    app:expanded_enabled="false"
+                    app:title="转账币种" />
+
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:layout_marginTop="50dp"
+                    app:title="收款地址"
+                    android:id="@+id/trans_to_address"
+                    app:content_hint="输入收款地址"
+                    app:content_min_height="65dp"
+                    app:content_vertical_gravity="center"
+                    app:edit_right_drawable="@drawable/scan"
+                    app:content_bg="@drawable/add_token_item_bg"
+                    app:expanded_enabled="false"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:layout_marginTop="50dp"
+                    app:title="转账金额"
+                    app:sub_title="全部"
+                    android:id="@+id/trans_amount"
+                    app:content_hint="输入转账金额"
+                    app:content_min_height="65dp"
+                    app:content_bg="@drawable/add_token_item_bg"
+                    app:expanded_enabled="false"
+                    app:content_input_type="number"
+                    app:content_vertical_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:id="@+id/trans_confirm_btn"
+                        android:layout_alignParentBottom="true"
+                        android:text="确定"
+                        android:background="@drawable/corner_primiry_bg"
+                        android:layout_marginBottom="30dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        />
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:checked="true"
+        android:icon="@drawable/menu_main"
+        android:title="@string/bottom_home" />
+
+    <item
+        android:id="@+id/menu_asset"
+        android:icon="@drawable/menu_project"
+        android:title="@string/bottom_asset" />
+
+    <item
+        android:id="@+id/menu_discover"
+        android:icon="@drawable/menu_tree"
+        android:title="@string/bottom_discover" />
+
+    <item
+        android:id="@+id/menu_me"
+        android:icon="@drawable/menu_me"
+        android:title="@string/bottom_me" />
+
+</menu>

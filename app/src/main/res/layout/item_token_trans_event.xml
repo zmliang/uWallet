@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/title_trans_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toStartOf="@+id/value_trans_type"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_trans_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="0.1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/title_payment_addr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:text="付款地址："
+        app:layout_constraintStart_toStartOf="@+id/title_trans_type"
+        app:layout_constraintTop_toBottomOf="@+id/title_trans_type" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_payment_addr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="0x111111111111"
+        app:layout_constraintEnd_toEndOf="@+id/value_trans_type"
+        app:layout_constraintTop_toBottomOf="@+id/value_trans_type" />
+
+    <TextView
+        android:id="@+id/title_collect_addr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="收款地址："
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="@+id/title_payment_addr"
+        app:layout_constraintTop_toBottomOf="@+id/title_payment_addr" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_collect_addr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="0x0000000000"
+        app:layout_constraintEnd_toEndOf="@+id/value_payment_addr"
+        app:layout_constraintTop_toBottomOf="@+id/value_payment_addr" />
+
+    <TextView
+        android:id="@+id/title_trans_hash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:text="交易哈希："
+        app:layout_constraintStart_toStartOf="@+id/title_collect_addr"
+        app:layout_constraintTop_toBottomOf="@+id/title_collect_addr" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_trans_hash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="0x22222222222"
+        app:layout_constraintEnd_toEndOf="@+id/value_collect_addr"
+        app:layout_constraintTop_toBottomOf="@+id/value_collect_addr" />
+
+    <TextView
+        android:id="@+id/title_gas_fee"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="矿工费："
+        app:layout_constraintStart_toStartOf="@+id/title_trans_hash"
+        app:layout_constraintTop_toBottomOf="@+id/title_trans_hash" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_gas_fee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="0.00002MATIC"
+        app:layout_constraintEnd_toEndOf="@+id/value_trans_hash"
+        app:layout_constraintTop_toBottomOf="@+id/value_trans_hash" />
+
+    <TextView
+        android:id="@+id/title_trans_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:text="交易时间："
+        app:layout_constraintStart_toStartOf="@+id/title_gas_fee"
+        app:layout_constraintTop_toBottomOf="@+id/title_gas_fee" />
+
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/value_trans_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="2023-09-23 02:33:22"
+        app:layout_constraintEnd_toEndOf="@+id/value_gas_fee"
+        app:layout_constraintTop_toBottomOf="@+id/value_gas_fee" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5px"
+        android:alpha="0.2"
+        android:layout_marginHorizontal="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="12dp"
+        android:background="@color/colorGray"
+        app:layout_constraintStart_toStartOf="@+id/title_trans_time"
+        app:layout_constraintTop_toBottomOf="@+id/title_trans_time" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

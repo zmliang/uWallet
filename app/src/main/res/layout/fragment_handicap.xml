@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <LinearLayout
+     android:orientation="vertical"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+
+  <include android:id="@+id/normal_action_bar"
+      layout="@layout/normal_action_bar" />
+
+  <RelativeLayout
+      android:paddingBottom="5dp"
+      android:paddingHorizontal="30dp"
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+
+   <TextView
+       android:layout_centerVertical="true"
+       android:id="@+id/coin_pair_tv"
+       android:drawablePadding="5dp"
+       android:textSize="15sp"
+       android:textColor="@color/black"
+       android:text="MATIC/USDT"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"/>
+
+   <ImageView
+       android:layout_alignParentRight="true"
+       android:background="@drawable/k_line_1"
+       android:layout_width="15dp"
+       android:layout_height="15dp"/>
+
+  </RelativeLayout>
+
+  <com.scwang.smart.refresh.layout.SmartRefreshLayout
+      android:id="@+id/handicap_refreshLayout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+   <com.scwang.smart.refresh.header.ClassicsHeader
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+   <com.yanzhenjie.recyclerview.SwipeRecyclerView
+       android:id="@+id/handicap_recyclerView"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:scrollbars="none"
+       app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+   <com.scwang.smart.refresh.footer.ClassicsFooter
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+  </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+
+
+ </LinearLayout>
+
+
+</layout>

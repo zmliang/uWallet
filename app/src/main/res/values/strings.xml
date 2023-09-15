@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UWallet</string>
+    <string name="bottom_home">首页</string>
+    <string name="bottom_asset">资产</string>
+    <string name="bottom_discover">发现</string>
+    <string name="bottom_me">我的</string>
+
+    <string-array name="support_chains">
+        <item>Polygon</item>
+        <item>BSC</item>
+        <item>Arbitrum</item>
+    </string-array>
+
+</resources>

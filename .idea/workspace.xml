@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-32</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/suoerye/.android/avd/Pixel_5_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/base">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="valueResourceFile" />
+        <option value="CMakeLists.txt" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/base/build.gradle" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baseUi/src/main/res/values/attrs.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2UH7l3vNrB2fGlqO7ME2iiN73iT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;vivo-v2036a-KNFIQ4DYYPHIINLV&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.self.app&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/ActionMenuView.java_SELECTED&quot;: &quot;ActionMenuView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_SELECTED&quot;: &quot;AppCompatTextView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/Toolbar.java_SELECTED&quot;: &quot;Toolbar&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED&quot;: &quot;CardView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/androidx/constraintlayout/widget/ConstraintLayout.java_SELECTED&quot;: &quot;ConstraintLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED&quot;: &quot;SwipeRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED&quot;: &quot;ViewPager2&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/com/ittianyu/bottomnavigationviewex/BottomNavigationViewEx.java_SELECTED&quot;: &quot;BottomNavigationViewEx&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/appbar/AppBarLayout.java_SELECTED&quot;: &quot;AppBarLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_SELECTED&quot;: &quot;BottomNavigationView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/navigation/NavigationBarView.java_SELECTED&quot;: &quot;NavigationBarView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.9.0/8ad443d2a33a5bbdf4210e3964cf79cc5021f12a/material-1.9.0-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED&quot;: &quot;TabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeMenuView.java_SELECTED&quot;: &quot;SwipeMenuView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/x/1.3.2/29953c6866290857de5517ce838aa18d5a5a1b39/x-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/SwipeRecyclerView.java_SELECTED&quot;: &quot;SwipeRecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/.gradle/caches/modules-2/files-2.1/io.github.scwang90/refresh-layout-kernel/2.0.6/aa16c9fc68b76d9f2658069f31b0b30e522098e0/refresh-layout-kernel-2.0.6-sources.jar!/com/scwang/smart/refresh/layout/SmartRefreshLayout.java_SELECTED&quot;: &quot;SmartRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ChartsView.kt_SELECTED&quot;: &quot;ChartsViewGroup&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/ScrollDisabledLv.kt_SELECTED&quot;: &quot;ScrollDisabledLv&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED&quot;: &quot;TokenGroupView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/VerticalTabLayout.kt_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED&quot;: &quot;ChartView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/verticaltab/VerticalTabLayout.kt_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/NonScrollableViewPager.java_SELECTED&quot;: &quot;NonScrollableViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/VerticalViewPager.java_SELECTED&quot;: &quot;VerticalViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/baseUi/src/main/java/com/zml/baseui/viewpager/transformer/VerticalViewPager.java_SELECTED&quot;: &quot;VerticalViewPager&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomRecyclerView.java_SELECTED&quot;: &quot;CustomRecyclerView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/CustomViewPager2.java_SELECTED&quot;: &quot;CustomViewPager2&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/MySmartRefreshLayout.java_SELECTED&quot;: &quot;MySmartRefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/RefreshLayout.java_SELECTED&quot;: &quot;RefreshLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/TokenGroupView.kt_SELECTED&quot;: &quot;TokenGroupView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_SELECTED&quot;: &quot;ChartView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/CenterTitleToolbar.java_SELECTED&quot;: &quot;CenterTitleToolbar&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/VerticalTabLayout.java_SELECTED&quot;: &quot;VerticalTabLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_SELECTED&quot;: &quot;AssetHeader&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_SELECTED&quot;: &quot;ExpendEditView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/FloatingMenu.java_SELECTED&quot;: &quot;FloatingMenu&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_SELECTED&quot;: &quot;ProgressButton&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ScannerView.java_SELECTED&quot;: &quot;ScannerView&quot;,
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/zbar/src/main/java/com/zml/zbar/view/ViewfinderView.java_SELECTED&quot;: &quot;ViewfinderView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/view/ViewGroup.java_SELECTED&quot;: &quot;ViewGroup&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/FrameLayout.java_SELECTED&quot;: &quot;FrameLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/HorizontalScrollView.java_SELECTED&quot;: &quot;HorizontalScrollView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageButton.java_SELECTED&quot;: &quot;ImageButton&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/ImageView.java_SELECTED&quot;: &quot;ImageView&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/LinearLayout.java_SELECTED&quot;: &quot;LinearLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TableLayout.java_SELECTED&quot;: &quot;TableLayout&quot;,
+    &quot;android-custom-view/Users/suoerye/Library/Android/sdk/sources/android-33/android/widget/TextView.java_SELECTED&quot;: &quot;TextView&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/suoerye/Downloads/my_/UWallet/app/src/main/res/layout&quot;,
+    &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1694148374820&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Variables&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;android-custom-view/Users/suoerye/Downloads/JetPack_Test/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt_ChartView_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ],
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/AssetHeader.java_AssetHeader_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ],
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ExpendEditView.java_ExpendEditView_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ],
+    &quot;android-custom-view/Users/suoerye/Downloads/my_/UWallet/baseUi/src/main/java/com/zml/baseui/view/ProgressButton.java_ProgressButton_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/menu" />
+      <recent name="$PROJECT_DIR$/baseUi/src/main/res/values" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/self/app/ui/activity" />
+      <recent name="$PROJECT_DIR$/network/src/main/java/com/self/network/util" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.self.app.ui.view.chart" />
+      <recent name="com.self.app.ui.view.verticaltab" />
+      <recent name="com.self.app.ui.fragments" />
+      <recent name="com.self.base.ui" />
+      <recent name="com.self.app.ui.activity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.self.network" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.self.app.net" />
+      <recent name="com.self.app.viewmodel.bean" />
+      <recent name="com.self.app.ui.adapter" />
+      <recent name="com.self.app.viewmodel" />
+      <recent name="com.self.app.ui.activity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --dependency-verification" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="JetPack_Test.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="true" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.self.app.ExampleUnitTest.addition_isCorrect&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JetPack_Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--dependency-verification" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Gradle.ExampleUnitTest.addition_isCorrect" />
+      <item itemvalue="Gradle.JetPack_Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ExampleUnitTest.addition_isCorrect" />
+        <item itemvalue="Gradle.JetPack_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe07df24-5132-4f16-8aa7-abe7fdb5d0d3" name="Changes" comment="" />
+      <created>1692584799601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692584799601</updated>
+    </task>
+    <task id="LOCAL-00001" summary="trustwallet去掉">
+      <created>1694757722109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694757722109</updated>
+    </task>
+    <task id="LOCAL-00002" summary="分次上传">
+      <created>1694758123983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694758123983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trustwallet去掉" />
+    <MESSAGE value="分次上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="分次上传" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/self/app/ui/view/chart/ChartView.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/self/app/ui/activity/TransferActivity.kt</url>
+          <line>113</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Library/Android/sdk/sources/android-33/android/view/View.java</url>
+          <line>26450</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Library/Android/sdk/sources/android-33/android/view/View.java</url>
+          <line>23935</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java</url>
+          <line>5322</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JetPack_Test$ExampleUnitTest_addition_isCorrect.ic" NAME="ExampleUnitTest.addition_isCorrect Coverage Results" MODIFIED="1693815354332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

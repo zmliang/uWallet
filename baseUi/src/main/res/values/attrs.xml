@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalTabLayout">
+        <!-- indicator config -->
+        <attr name="anim_duration" format="integer" />
+        <attr name="indicator_color" format="color" />
+        <attr name="indicator_padding" format="dimension" />
+        <attr name="indicator_paddingStart" format="dimension" />
+        <attr name="indicator_paddingTop" format="dimension" />
+        <attr name="indicator_paddingEnd" format="dimension" />
+        <attr name="indicator_paddingBottom" format="dimension" />
+        <attr name="indicator_width" format="dimension" />
+        <attr name="indicator_corners" format="dimension" />
+        <attr name="indicator_gravity" format="enum">
+            <enum name="left" value="100" />
+            <enum name="right" value="101" />
+            <enum name="fill" value="102" />
+        </attr>
+        <!-- tabLayout config -->
+        <attr name="tab_margin" format="dimension" />
+        <attr name="tab_mode" format="enum">
+            <enum name="fixed" value="10" />
+            <enum name="scrollable" value="11" />
+        </attr>
+        <!-- tab config -->
+        <attr name="tab_padding" format="dimension" />
+        <attr name="tab_paddingStart" format="dimension" />
+        <attr name="tab_paddingTop" format="dimension" />
+        <attr name="tab_paddingEnd" format="dimension" />
+        <attr name="tab_paddingBottom" format="dimension" />
+        <attr name="tab_height" format="dimension" />
+        <attr name="tab_textSize" format="dimension" />
+        <attr name="tab_textColor" format="color" />
+        <attr name="tab_textSelectedColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="FloatingMenu">
+        <attr name="fmText" format="string"/>
+        <attr name="fmTextColor" format="color"/>
+        <attr name="fmIcon" format="reference"/>
+        <attr name="fmBackground" format="reference"/>
+        <attr name="fmElevation" format="dimension"/>
+        <attr name="fmTextSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ExpendEditView">
+        <attr name="title_left_drawable" format="reference"/>
+        <attr name="title" format="string"/>
+        <attr name="content_min_height" format="dimension"/>
+        <attr name="content_max_height" format="dimension"/>
+        <attr name="content_hint" format="string"/>
+        <attr name="expanded_enabled" format="boolean"/>
+        <attr name="content_bg" format="reference"/>
+        <attr name="content_editable" format="boolean"/>
+        <attr name="edit_right_drawable" format="reference"/>
+        <attr name="edit_left_drawable" format="reference"/>
+        <attr name="sub_title" format="string"/>
+        <attr name="content_text_size" format="dimension"/>
+        <attr name="content_vertical_gravity" format="enum">
+            <enum name="top" value="1" />
+            <enum name="center" value="2" />
+            <enum name="bottom" value="3" />
+        </attr>
+        <attr name="content_input_type" format="enum">
+            <enum name="number" value="1" />
+            <enum name="string" value="2" />
+        </attr>
+    </declare-styleable>
+
+</resources>

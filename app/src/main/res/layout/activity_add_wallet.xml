@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+
+        <variable
+            name="click"
+            type="com.self.app.ui.activity.AddWalletActivity.ClickListener" />
+    </data>
+
+
+
+    <LinearLayout
+        android:background="@color/white_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/normal_action_bar"
+            android:id="@+id/nor_bar"/>
+
+        <com.scwang.smart.refresh.layout.SmartRefreshLayout
+            android:id="@+id/me_refreshLayout"
+            android:layout_width="match_parent"
+            app:srlEnablePureScrollMode="true"
+            app:srlEnableLoadMore="false"
+            android:layout_marginBottom="50dp"
+            app:srlDragRate="0.75"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="20dp"
+                android:layout_height="wrap_content">
+
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:id="@+id/new_wallet_name_ee"
+                    android:layout_marginTop="10dp"
+                    app:title="新钱包名称"
+                    app:content_vertical_gravity="center"
+                    app:content_hint="钱包名"
+                    app:content_min_height="65dp"
+                    app:content_bg="@drawable/add_token_item_bg"
+                    app:expanded_enabled="false"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:id="@+id/create_walllet_tv"
+                    android:layout_marginTop="50dp"
+                    app:title="创建新钱包"
+                    app:title_left_drawable="@drawable/wallet_create_icon"
+                    app:content_min_height="20dp"
+                    app:content_bg="@drawable/add_token_item_bg"
+                    app:expanded_enabled="false"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:id="@+id/private_key_eev"
+                    android:layout_marginTop="50dp"
+                    app:title="导入私钥"
+                    app:content_hint="输入私钥"
+                    app:content_min_height="20dp"
+                    app:title_left_drawable="@drawable/wallet_import_privatekey_icon"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <com.zml.baseui.view.ExpendEditView
+                    android:id="@+id/mnemonic_eev"
+                    android:layout_marginTop="50dp"
+                    app:title="导入助记词"
+                    app:content_hint="输入助记词"
+                    app:content_min_height="20dp"
+                    app:title_left_drawable="@drawable/wallet_import_words_icon"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:layout_alignParentBottom="true"
+                        android:text="确定"
+                        android:onClick="@{()->click.onClick()}"
+                        android:background="@drawable/corner_primiry_bg"
+                        android:layout_marginBottom="30dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        />
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+
+
+    </LinearLayout>
+</layout>

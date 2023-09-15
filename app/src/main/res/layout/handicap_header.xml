@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:weightSum="5"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="0dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <com.self.app.ui.view.chart.ChartView
+            android:id="@+id/handicap_buy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:right_text_color="@color/black"
+            app:chart_color="#4d00ff00"
+            app:anim_update="true"
+            app:text_size="8sp"
+            app:chart_height="20dp"/>
+        <TextView
+            android:paddingVertical="5dp"
+            android:text="$0.99999"
+            android:textColor="@color/colorPrimary"
+            android:textSize="12sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.self.app.ui.view.chart.ChartView
+            android:id="@+id/handicap_sell"
+            app:chart_color="#4dff0000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:right_text_color="@color/black"
+            app:anim_update="true"
+            app:text_size="8sp"
+            app:chart_height="20dp"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_weight="3"
+        android:layout_width="0dp"
+        android:background="@color/black"
+        android:layout_height="300dp">
+
+    </FrameLayout>
+
+
+</LinearLayout>

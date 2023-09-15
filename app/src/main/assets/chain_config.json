@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Ethereum",
+    "chainId": "0x1",
+    "rpcs": ["https://api.edennetwork.io/v1/rpc"],
+    "browserRpc": "https://api-cn.etherscan.com/",
+    "browserKey": "5TXFN14AWZRNI3G95W6HCAS653U2FPJQCU",
+    "blockBrowser": "https://etherscan.io",
+    "symbol": "ETH"
+  }, {
+  "name": "BSC",
+  "chainId": "0x38",
+  "rpcs": ["https://bscrpc.com","https://bsc-dataseed1.defibit.io","https://bsc-dataseed1.ninicoin.io","https://bsc-dataseed2.defibit.io","https://bsc-dataseed3.defibit.io","https://bsc-dataseed4.defibit.io","https://bsc-dataseed2.ninicoin.io","https://bsc-dataseed3.ninicoin.io","https://bsc-dataseed4.ninicoin.io","https://bsc.nodereal.io","https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3","https://bsc-dataseed.binance.org","https://rpc.ankr.com/bsc","https://bsc-mainnet.rpcfast.com","https://1rpc.io/bnb","https://bscapi.terminet.io/rpc","https://rpc-bsc.bnb48.club","https://binance.nodereal.io","https://bsc.mytokenpocket.vip","https://bscrpc.com","https://bsc-mainnet.rpcfast.com?api_key=S3X5aFCCW9MobqVatVZX93fMtWCzff0MfRj9pvjGKSiX5Nas7hz33HwwlrT5tXRM","https://bsc-mainnet.public.blastapi.io"],
+  "browserRpc": "https://api.bscscan.com/",
+  "browserKey": "UFCDY58DIFVGE581DC2I8ZNF8ZRT6CVWTN",
+  "blockBrowser": "https://www.bscscan.com",
+  "symbol": "BNB"
+},{
+  "name": "Polygon",
+  "chainId": "0x89",
+  "rpcs": ["https://polygon-mainnet.infura.io/v3/cf04cee8e88e436c9419811c5edbe86c","https://rpc.ankr.com/polygon","https://poly-rpc.gateway.pokt.network","https://matic-mainnet-archive-rpc.bwarelabs.com","https://matic-mainnet-full-rpc.bwarelabs.com","https://matic-mainnet.chainstacklabs.com","https://rpc-mainnet.matic.quiknode.pro","https://polygon-mainnet.public.blastapi.io"],
+  "browserRpc": "https://api.polygonscan.com/",
+  "browserKey": "UZYZRTEM825K6H39D12K7Q8RXQZAXQUY27",
+  "blockBrowser": "https://polygonscan.com",
+  "symbol": "MATIC"
+},{
+  "name": "Heco",
+  "chainId": "0x80",
+  "rpcs": ["https://http-mainnet.hecochain.com","https://http-mainnet-node.defibox.com"],
+  "browserRpc": "https://api.hecoinfo.com/",
+  "browserKey": "42FZKHZNU5HUC4QNM7Y8AP8BZX1TA6Y2SW",
+  "blockBrowser": "https://hecoinfo.com/",
+  "symbol": "HT"
+},{
+  "name": "Rinkeby Testnet",
+  "chainId": "0x4",
+  "rpcs": ["https://rinkeby.infura.io/v3/cf04cee8e88e436c9419811c5edbe86c"],
+  "browserRpc": "https://api-rinkeby.etherscan.io/",
+  "browserKey": "5TXFN14AWZRNI3G95W6HCAS653U2FPJQCU",
+  "blockBrowser": "https://rinkeby.etherscan.io",
+  "symbol": "ETH"
+},{
+  "name": "BSC Testnet",
+  "chainId": "0x61",
+  "rpcs": ["https://bsc-testnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5","https://bsc-testnet.nodereal.io/v1/a08604d22dd344c9bd5496ea1242051c","https://bsc-testnet.nodereal.io/v1/9e09d98822534a17845448896ba1eabb","https://bsc-testnet.nodereal.io/v1/417ad7e2e08c4d2cad0ee2453e3708a1","https://rpc.ankr.com/bsc_testnet_chapel"],
+  "browserRpc": "https://api-testnet.bscscan.com/",
+  "browserKey": "UFCDY58DIFVGE581DC2I8ZNF8ZRT6CVWTN",
+  "blockBrowser": "https://testnet.bscscan.com/",
+  "symbol": "BNB"
+},{
+  "name": "Polygon Testnet",
+  "chainId": "0x13881",
+  "rpcs": ["https://polygon-mumbai.blockpi.network/v1/rpc/public","https://matic-mumbai.chainstacklabs.com","https://rpc-mumbai.maticvigil.com","https://rpc.ankr.com/polygon_mumbai","tps://endpoints.omniatech.io/v1/matic/mumbai/public","https://polygon-mumbai-bor.publicnode.com","https://polygon-testnet.public.blastapi.io","https://polygon-mumbai.gateway.tenderly.co","https://gateway.tenderly.co/public/polygon-mumbai","ttps://matic-testnet-archive-rpc.bwarelabs.com","://polygon-mumbai.g.alchemy.com/v2/demo","ps://polygontestapi.terminet.io/rpc"],
+  "browserRpc": "https://api-testnet.polygonscan.com/",
+  "browserKey": "UZYZRTEM825K6H39D12K7Q8RXQZAXQUY27",
+  "blockBrowser": "https://mumbai.polygonscan.com/",
+  "symbol": "MATIC"
+},{
+  "name": "Heco Testnet",
+  "chainId": "0x100",
+  "rpcs": ["https://http-testnet.hecochain.com"],
+  "browserRpc": "https://api-testnet.hecoinfo.com/",
+  "browserKey": "42FZKHZNU5HUC4QNM7Y8AP8BZX1TA6Y2SW",
+  "blockBrowser": "https://testnet.hecoinfo.com/",
+  "symbol": "HT"
+},{
+  "name": "Arbitrum",
+  "chainId": "0xa4b1",
+  "rpcs": [
+    "https://rpc.ankr.com/arbitrum",
+    "https://arb-mainnet-public.unifra.io",
+    "https://arbitrum-one.publicnode.com",
+    "https://arb1.croswap.com/rpc",
+    "https://arbitrum-one.public.blastapi.io",
+    "https://arbitrum.blockpi.network/v1/rpc/public",
+    "https://arb1.arbitrum.io/rpc",
+    "https://1rpc.io/arb",
+    "https://rpc.arb1.arbitrum.gateway.fm",
+    "https://arbitrum.api.onfinality.io/public",
+    "https://arbitrum.meowrpc.com",
+    "https://arb-mainnet.g.alchemy.com/v2/demo",
+    "https://endpoints.omniatech.io/v1/arbitrum/one/public"
+  ],
+  "browserRpc": "https://api.arbiscan.io/",
+  "browserKey": "1QZWKPGXFQCWV132U9HDF1EPVHPCD2KUGS",
+  "blockBrowser": "https://arbiscan.io/",
+  "symbol": "ETH"
+},{
+  "name": "Arbitrum Testnet",
+  "chainId": "0x66eed",
+  "rpcs": [
+    "https://arbitrum-goerli.publicnode.com",
+    "https://arbitrum-goerli.public.blastapi.io",
+    "https://rpc.goerli.arbitrum.gateway.fm",
+    "https://endpoints.omniatech.io/v1/arbitrum/goerli/public",
+    "https://goerli-rollup.arbitrum.io/rpc",
+    "https://arb-goerli.g.alchemy.com/v2/demo"
+  ],
+  "browserRpc": "https://api-goerli.arbiscan.io/",
+  "browserKey": "1QZWKPGXFQCWV132U9HDF1EPVHPCD2KUGS",
+  "blockBrowser": "https://goerli.arbiscan.io/",
+  "symbol": "ETH"
+}
+]
+

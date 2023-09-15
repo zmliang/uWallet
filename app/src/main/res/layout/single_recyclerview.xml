@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yanzhenjie.recyclerview.SwipeRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/single_rv"
+    android:fadingEdge="none"
+    android:paddingBottom="25dp"
+    android:paddingTop="25dp"
+    android:background="@drawable/balance_header_bg"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content">
+
+</com.yanzhenjie.recyclerview.SwipeRecyclerView>

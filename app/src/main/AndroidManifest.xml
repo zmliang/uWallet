@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-sdk tools:overrideLibrary="com.self.base" />
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:persistent="true"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/google_wallet_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".MainApp"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@style/Theme.JetPack_Test"
+        tools:ignore="GoogleAppIndexingWarning,LockedOrientationActivity">
+
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.TestActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.ScreenActivity"
+            android:screenOrientation="portrait"
+            android:launchMode="singleInstance"
+            android:exported="true">
+
+        </activity>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true"
+           >
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+        </activity>
+
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.HandicapActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.AddWalletActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.AddTokenActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.TransferActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.WalletDetailActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.CameraPreviewActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:theme="@style/FullscreenThemse"
+            android:name="com.self.app.ui.activity.TokenTransEventActivity"
+            android:screenOrientation="portrait"/>
+
+
+
+        <!-- Arms 配置 -->
+        <meta-data
+            android:name="design_width_in_dp"
+            android:value="375" />
+        <meta-data
+            android:name="design_height_in_dp"
+            android:value="667" />
+    </application>
+
+</manifest>

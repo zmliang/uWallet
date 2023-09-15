@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_zml_nav"
+    app:startDestination="@id/mainfragment">
+
+    <fragment
+        android:id="@+id/mainfragment"
+        android:name="com.self.app.ui.fragments.MainFragment"
+        android:label="HomeFragment">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/hancicapFragment"
+        android:name="com.self.app.ui.fragments.HandicapFragment"
+        android:label="HandicapFragment"
+        />
+
+
+    <action
+        android:id="@+id/action_to_webFragment"
+        app:destination="@id/hancicapFragment"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left"
+        app:popEnterAnim="@anim/slide_in_left"
+        app:popExitAnim="@anim/slide_out_right" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/loginFragment"-->
+<!--        android:name="me.hgj.jetpackmvvm.demo.ui.fragment.login.LoginFragment"-->
+<!--        android:label="LoginFragment">-->
+<!--        <action-->
+<!--            android:id="@+id/action_loginFragment_to_registerFrgment"-->
+<!--            app:destination="@id/registerFrgment"-->
+<!--            app:enterAnim="@anim/slide_in_right"-->
+<!--            app:exitAnim="@anim/slide_out_left"-->
+<!--            app:popEnterAnim="@anim/slide_in_left"-->
+<!--            app:popExitAnim="@anim/slide_out_right" />-->
+<!--    </fragment>-->
+
+<!--    <action-->
+<!--        android:id="@+id/action_to_loginFragment"-->
+<!--        app:destination="@id/loginFragment"-->
+<!--        app:enterAnim="@anim/slide_in_right"-->
+<!--        app:exitAnim="@anim/slide_out_left"-->
+<!--        app:popEnterAnim="@anim/slide_in_left"-->
+<!--        app:popExitAnim="@anim/slide_out_right" />-->
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.self.app.ui.fragments.SettingFragment"
+        android:label="SettingFragment" />
+
+</navigation>
