@@ -1,1 +1,6 @@
 /build
+../base/build
+../baseUi/build
+../network/build
+../wallet/build
+../zbar/build
